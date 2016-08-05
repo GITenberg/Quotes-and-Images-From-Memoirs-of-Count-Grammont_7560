@@ -1,0 +1,29 @@
+_repo: Quotes-and-Images-From-Memoirs-of-Count-Grammont_7560
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, Anthony, Count
+    deathdate: 1720
+    gutenberg_agent_id: '1789'
+    url: http://www.gutenberg.org/2009/agents/1789
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Hamilton
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images From Memoirs of Count Grammont
+url: http://www.gutenberg.org/ebooks/7560
